@@ -1,3 +1,1 @@
-best accuracy model is : best.pt
-
-other model are also train and have best accuracy
+Multiple Handwritten text detection ML models
